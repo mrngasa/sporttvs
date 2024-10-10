@@ -1,0 +1,5 @@
+package com.winner.sporttvs
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
